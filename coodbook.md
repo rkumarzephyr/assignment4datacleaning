@@ -1,8 +1,9 @@
 # id columns
-* "subject" 
-* "activity"  
+* "subject" -> id of the person like from 1- 30
+* "activity" -> like WALKING, WALKING_UPSTAIRS etc
 
 # value column
+These are mean of the measurement for each subject+activity combinations
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
